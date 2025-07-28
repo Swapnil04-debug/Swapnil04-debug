@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm passionate about turning data into actionable 
 ---
 
 ### 📫 How to Reach Me
-- ✉️ Email: swapnildixit2010@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/swapnil-dixit](https://www.linkedin.com/in/swapnil-dixit)
+- ✉️ Email: swapnild102004@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/swapnil-dixit-515a49306/
 
 ---
 
