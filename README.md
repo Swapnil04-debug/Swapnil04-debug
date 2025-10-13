@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Swapnil%20Dixit%20🧠&fontSize=42&fontAlignY=30&desc=Learning%20Java,%20DSA,%20Python%20%26%20Machine%20Learning&descSize=18&descAlignY=51&animation=twinkling" />
-</div>
-
-
 ## 🧩 About Me
 
 ```yaml
