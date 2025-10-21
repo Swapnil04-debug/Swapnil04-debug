@@ -1,20 +1,38 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Swapnil%20Dixit&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Tech+Writer+%E2%9C%8D%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swapnil04-debug&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/swapnil04-debug?label=Followers&style=for-the-badge&color=8B5CF6" alt="Followers" />
+</p>
+
+---
+
 ## 🧩 About Me
 
-
+```yaml
 name: Swapnil Dixit
-located_in: India
+location: India 🇮🇳
 current_focus: Machine Learning & Data Structures
 education: Learning Java, Python, DSA
 interests: [Problem Solving, ML Projects, Tech Writing]
 blog: https://medium.com/@swapnild102004
 email: swapnild102004@gmail.com
+```
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Currently working on **impact-oriented Machine Learning projects**
 - 🌱 Exploring **Python, Machine Learning, and Data Structures**
 - 💡 Passionate about **problem-solving, building cool projects, and learning new tech**
 - 📝 I write tech articles on [Medium](https://medium.com/@swapnild102004)
 - 📫 Reach me at: **swapnild102004@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code!** ☕→💻
 
 ---
 
@@ -96,8 +114,24 @@ email: swapnild102004@gmail.com
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swapnil04-debug&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -109,3 +143,8 @@ email: swapnild102004@gmail.com
 <p align="center">
   <b>✨ Thanks for stopping by! Let's build something amazing together. 🚀</b>
 </p>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
