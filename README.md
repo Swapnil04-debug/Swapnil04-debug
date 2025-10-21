@@ -1,6 +1,6 @@
 ## 🧩 About Me
 
-```yaml
+
 name: Swapnil Dixit
 located_in: India
 current_focus: Machine Learning & Data Structures
@@ -8,7 +8,7 @@ education: Learning Java, Python, DSA
 interests: [Problem Solving, ML Projects, Tech Writing]
 blog: https://medium.com/@swapnild102004
 email: swapnild102004@gmail.com
-```
+
 
 - 🔭 Currently working on **impact-oriented Machine Learning projects**
 - 🌱 Exploring **Python, Machine Learning, and Data Structures**
